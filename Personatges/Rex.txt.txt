@@ -1,2 +1,4 @@
 Nom: Rex
 Element: Aire
+
+Història: Té 300 anys. Pot comunicar-se amb humans.
