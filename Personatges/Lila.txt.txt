@@ -1,2 +1,5 @@
 Nom: Lila
 Element: Foc
+
+Història:
+Va estar estudiant amb els mags del Castell. Es va especialitzar en la màgia de foc.
